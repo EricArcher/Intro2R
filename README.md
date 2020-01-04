@@ -4,7 +4,7 @@ output:
   html_document: default
 ---
 # SIOB 296:  "Introduction to Programming with R"     
-__Dates__: January 6, 2019 - March 12, 2020  
+__Dates__: January 6, 2019 - March 9, 2020  
 __Time__: Monday 1pm - 4pm  
 __Location__: Eckart Building, first floor, Sea Cave  
 __Grading__: Four Units, S/U Only  
