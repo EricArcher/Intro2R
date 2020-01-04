@@ -24,16 +24,16 @@ RStudio: https://www.rstudio.com
 
 |Week|Date|Topic 
 |:--:|:----:|:-------------------------------------------------------
-|1 |1/6  |R console, RStudio, scripts, data structures, vectors, indexing, logical operations
-|2 |1/13 |indexing review, factors, matrices and arrays
-|3 |1/20 |vectorization, coercion, lists, data frames, reading and writing data
-|4 |1/27 |common functions for data summary and selection
-|5 |2/3  |character and string manipulation, date/time objects
-|6 |2/10 |function writing, flow control
-|7 |2/17 |iterating and *apply* family of functions
-|8 |2/24 |graphics (*base* and *ggplot2*)
-|9 |3/2  |statistics, model fitting, simulation
-|10|3/9 |file and folder management, the *tidyverse* package (*magrittr*, *dplyr*, *tidyr*)
+|1 |Jan 6  |R console, RStudio, scripts, data structures, vectors, indexing, logical operations
+|2 |Jan 13 |indexing review, factors, matrices and arrays
+|3 |Jan 20 |vectorization, coercion, lists, data frames, reading and writing data
+|4 |Jan 27 |common functions for data summary and selection
+|5 |Feb 3  |character and string manipulation, date/time objects
+|6 |Feb 10 |function writing, flow control
+|7 |Feb 17 |iterating and *apply* family of functions
+|8 |Feb 24 |graphics (*base* and *ggplot2*)
+|9 |Mar 2  |statistics, model fitting, simulation
+|10|Mar 9 |file and folder management, the *tidyverse* package (*magrittr*, *dplyr*, *tidyr*)
  
 Syllabus, class notes, and homework available at: https://github.com/EricArcher/Intro2R
  
