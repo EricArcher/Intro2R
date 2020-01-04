@@ -5,3 +5,4 @@
 Prep/*
 .gitignore
 *.Rproj
+.DS_Store
