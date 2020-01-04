@@ -1,4 +1,4 @@
-# SIOB 296:  "Introduction to Programming with R"     
+# SIOB 296:  Introduction to Programming with R   
 __Dates__: January 6, 2019 - March 9, 2020  
 __Time__: Monday 1pm - 4pm  
 __Location__: Eckart Building, first floor, Sea Cave  
