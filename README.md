@@ -1,3 +1,8 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
 # SIOB 296:  Introduction to Programming with R   
 __Dates__: January 6 - March 9, 2020  
 __Time__: Monday 1pm - 4pm  
