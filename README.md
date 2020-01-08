@@ -25,12 +25,12 @@ RStudio: https://www.rstudio.com
 |Week|Date|Topic 
 |:--:|:----:|:-------------------------------------------------------
 |01 |Jan 06 |R console, RStudio, scripts, data structures, vectors, indexing, logical operations
-|02 |Jan 13 |indexing review, vectorization, factors, matrices and arrays
-|03 |Jan 20 |coercion, lists, data frames, reading and writing data
-|04 |Jan 27 |common functions for data summary and selection
+|02 |Jan 13 |indexing review, vectorization, factors, matrices and arrays, lists, data frames
+|03 |Jan 20 |<< Martin Luther King Jr. Day >>
+|04 |Jan 27 |reading and writing data, common functions for data summary and selection
 |05 |Feb 03 |character and string manipulation, date/time objects
-|06 |Feb 10 |function writing, flow control
-|07 |Feb 17 |iterating and *apply* family of functions
+|06 |Feb 10 |function writing, flow control, iterating and *apply* family of functions
+|07 |Feb 17 |<< President's Day >> 
 |08 |Feb 24 |graphics (*base* and *ggplot2*)
 |09 |Mar 02 |statistics, model fitting, simulation
 |10 |Mar 09 |file and folder management, the *tidyverse* package (*magrittr*, *dplyr*, *tidyr*)
